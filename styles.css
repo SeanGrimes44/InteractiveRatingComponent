@@ -13,6 +13,7 @@ body {
     border-radius: 20px;
     padding: 30px;
     background-image: radial-gradient(circle at top, hsl(213, 19%, 18%), #171e28);
+    margin-top: 8em;
 }
 
 
