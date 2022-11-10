@@ -8,12 +8,11 @@ body {
 .card {
     max-width: 354px;
     height: 354px;
-    margin:auto;
+    margin: 30vh auto;
     background-color: hsl(213, 19%, 18%);
     border-radius: 20px;
     padding: 30px;
     background-image: radial-gradient(circle at top, hsl(213, 19%, 18%), #171e28);
-    margin-top: 8em;
 }
 
 
